@@ -2,8 +2,11 @@
   "name": "indentator",
   "version": "1.0.0",
   "description": "",
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "CycleJS"
+  ],
+  "author": "Christian Harke",
+  "license": "MIT",
   "main": "app/main.js",
   "scripts": {
     "start": "webpack-dev-server --progress --colors --port 3000 --inline --hot",
