@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        [
+            "transform-react-jsx",
+            { "pragma": "hJSX" }
+        ]
+    ],
+    "presets": ["es2015"]
+}
